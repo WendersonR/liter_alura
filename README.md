@@ -31,17 +31,17 @@ Permite buscar livros por título, filtrar por idioma, listar autores e visualiz
 
 ## 📦 Exemplo de uso
 
-*************
-Escolha o número da sua opção:
-*************
-
-1 - Buscar livro por título
-2 - Listar livros registrados
-3 - Listar autores registrados
-4 - Listar autores vivos em um ano determinado
-5 - Listar livros em um determinado idioma
-6 - Top 10 livros com mais downloads
-0 - Sair
+*************  
+Escolha o número da sua opção:  
+*************  
+  
+1 - Buscar livro por título  
+2 - Listar livros registrados  
+3 - Listar autores registrados  
+4 - Listar autores vivos em um ano determinado  
+5 - Listar livros em um determinado idioma  
+6 - Top 10 livros com mais downloads  
+0 - Sair  
 
 *************
 
