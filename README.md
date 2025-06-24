@@ -34,6 +34,7 @@ Permite buscar livros por título, filtrar por idioma, listar autores e visualiz
 *************
 Escolha o número da sua opção:
 *************
+
 1 - Buscar livro por título
 2 - Listar livros registrados
 3 - Listar autores registrados
@@ -41,6 +42,7 @@ Escolha o número da sua opção:
 5 - Listar livros em um determinado idioma
 6 - Top 10 livros com mais downloads
 0 - Sair
+
 *************
 
 ---
